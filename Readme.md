@@ -2,6 +2,10 @@
 
 This month I will be creating a movie search app using the React library learned last month. This project will be created in a span of 4 weeks. From creating a project proposal and creating wireframes to showcasing the project as fully functional and ready to be deployed by the end of the month.
 
+## Github Pages Live
+
+https://tvargas94.github.io/Movie-App/
+
 ## Scope Of Work
 
 This project will be created using React to fetch data to display from the Movie DB API. All the data being fetched will be styled within a card that will display the movie picture, rating, and movie description. Users will also have a search bar to search for movies they like.
