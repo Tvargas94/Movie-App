@@ -14,21 +14,18 @@ html {
     color: black;
 }
 
-nav {
-    display:flex;
-    justify-content: space-around;
-    align-items: center;
-    min-height: 10vh;
-    background: rgb(73, 79, 82);
-    color: white;
-}
-
 p {
     font-size: 1.6rem;
 }
 
 small {
     font-size: 1.2rem;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .container {
@@ -53,6 +50,7 @@ small {
     font-size: 1.2rem;
     margin-bottom: 0.2rem;
     text-transform: uppercase;
+    color: white;
 }
 
 .input {
